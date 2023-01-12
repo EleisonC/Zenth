@@ -24,20 +24,20 @@ self.__precacheManifest = [
     "url": "/Zenth/static/media/close-up-photo-of-adidas-shoes-1661470.70b85224.jpg"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/Zenth/static/media/slick.ced611da.eot"
-  },
-  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/Zenth/static/media/slick.b7c9e1e4.woff"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/Zenth/static/media/slick.f97e3bbf.svg"
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/Zenth/static/media/slick.ced611da.eot"
   },
   {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
     "url": "/Zenth/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/Zenth/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "2caaabbb91b86b1314398f134c1715ed",
