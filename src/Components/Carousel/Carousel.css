@@ -1,0 +1,21 @@
+.MuiSvgIcon-root {
+  fill: #6f7880 !important;
+  font-size: 2rem !important;
+}
+
+.slick-slider {
+  margin: 0 14px;
+}
+
+.slick-slide {
+  padding: 20px;
+}
+
+.itemInfo {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Karla', sans-serif;
+  color: black;
+  max-width: 90%;
+  font-family: 'Fjalla One', sans-serif;
+}
